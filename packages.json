@@ -1,0 +1,26 @@
+[
+    {
+        "package": "inSilecoMisc",
+        "url": "https://github.com/inSileco/inSilecoMisc"
+    },
+    {
+        "package": "graphicsutils",
+        "url": "https://github.com/inSileco/graphicsutils"
+    },
+    {
+        "package": "rowlbot",
+        "url": "https://github.com/inSileco/rowlbot"
+    },
+    {
+        "package": "rchelsa",
+        "url": "https://github.com/inSileco/rchelsa"
+    },
+    {
+        "package": "formbuildr",
+        "url": "https://github.com/inSileco/rformbuildr"
+    },
+    {
+        "package": "refR",
+        "url": "https://github.com/inSileco/refR"
+    }
+]
