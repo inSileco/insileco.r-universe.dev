@@ -22,5 +22,9 @@
     {
         "package": "refR",
         "url": "https://github.com/inSileco/refR"
+    },
+    {
+        "package": "omdbr",
+        "url": "https://github.com/inSileco/omdbr"
     }
 ]
